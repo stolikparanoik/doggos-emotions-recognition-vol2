@@ -1,0 +1,26 @@
+<annotation>
+	<folder>angry</folder>
+	<filename>angry (403).jpg</filename>
+	<path>/Users/aprzybycien/Documents/psy/data/angry/angry (403).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>699</width>
+		<height>587</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>47</ymin>
+			<xmax>372</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+</annotation>
