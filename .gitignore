@@ -8,3 +8,4 @@ annotations/
 dogs/
 separated-dogs/
 .idea/
+__pycache__/

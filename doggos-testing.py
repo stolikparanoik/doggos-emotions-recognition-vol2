@@ -1,7 +1,6 @@
 from matplotlib import pyplot
 from matplotlib.patches import Rectangle
 from mrcnn.model import mold_image
-from mrcnn.config import Config
 from mrcnn.model import MaskRCNN
 from numpy import expand_dims
 from doggosutils import PredictionConfig, DoggosDataset
@@ -66,4 +65,4 @@ model = MaskRCNN(mode='inference', model_dir='./', config=cfg)
 model_path = 'kangaroo_cfg20201122T1917/mask_rcnn_kangaroo_cfg_0005.h5'
 model.load_weights(model_path, by_name=True)
 plot_actual_vs_predicted(test_set, model, cfg, n_images=4)
-#plot_actual_vs_predicted(train_set, model, cfg, n_images=4)
+# plot_actual_vs_predicted(train_set, model, cfg, n_images=4)

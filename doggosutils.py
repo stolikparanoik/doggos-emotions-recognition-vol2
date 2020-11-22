@@ -5,6 +5,7 @@ from numpy import zeros
 from numpy import asarray
 from mrcnn.utils import Dataset
 from mrcnn.config import Config
+import re
 
 
 # class that defines and loads the doggos dataset
