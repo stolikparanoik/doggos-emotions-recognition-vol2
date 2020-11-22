@@ -1,9 +1,11 @@
 tensorflow==1.15.0
 keras==2.2.4
-h5py==2.10.0
+h5py==2.7.1
 PyYAML==5.3.1
-numpy==1.19.3
-git+git://github.com/path/to/package-two@master#egg=mask-rcnn
+numpy==1.19.1
+matplotlib
+scikit-image
+git+git://github.com/matterport/Mask_RCNN.git@master#egg=mask-rcnn
 #git clone https://github.com/experiencor/kangaroo.git
 #git clone https://github.com/matterport/Mask_RCNN.git
 #https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5

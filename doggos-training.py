@@ -1,13 +1,5 @@
-from xml.etree import ElementTree
-from os import listdir
-from xml.etree import ElementTree
-from numpy import zeros
-from numpy import asarray
-from mrcnn.utils import Dataset
-from mrcnn.config import Config
 from mrcnn.model import MaskRCNN
 from doggosutils import DoggosDataset, DoggosConfig
-import re
 
 # prepare train set
 train_set = DoggosDataset()
