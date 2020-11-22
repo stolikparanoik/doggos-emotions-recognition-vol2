@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sleepy</folder>
+	<filename>sleepy (13).jpg</filename>
+	<path>C:\Users\a.szlendak\Desktop\pg\dogos-emotions-recognition-vol2\data\sleepy\sleepy (13).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>239</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>179</ymin>
+			<xmax>232</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

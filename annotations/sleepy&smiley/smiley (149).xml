@@ -1,0 +1,26 @@
+<annotation>
+	<folder>smiley</folder>
+	<filename>smiley (149).jpg</filename>
+	<path>C:\Users\a.szlendak\Desktop\pg\dogos-emotions-recognition-vol2\data\smiley\smiley (149).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>64</ymin>
+			<xmax>269</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>
