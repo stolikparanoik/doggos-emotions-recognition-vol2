@@ -2,4 +2,9 @@
 Mask_RCNN/
 Untitled.ipynb
 kangaroo_cfg20201121T1823/
+kangaroo_cfg20201122T1917/
 mask_rcnn_coco.h5
+annotations/
+dogs/
+separated-dogs/
+.idea/
