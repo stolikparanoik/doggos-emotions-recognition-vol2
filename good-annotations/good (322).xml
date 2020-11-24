@@ -1,0 +1,26 @@
+<annotation>
+	<folder>good</folder>
+	<filename>good (322).jpg</filename>
+	<path>/Users/aprzybycien/Documents/psy/data/good/good (322).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1079</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>345</ymin>
+			<xmax>560</xmax>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>
